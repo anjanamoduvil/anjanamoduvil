@@ -47,10 +47,10 @@ I'm a Data Science & ML enthusiast who enjoys turning messy, real-world data int
 
 ---
 
-<!-- ================= QUOTE ================= -->
+<!-- ================= WAVING DIVIDER ================= -->
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
 
@@ -60,6 +60,10 @@ I'm a Data Science & ML enthusiast who enjoys turning messy, real-world data int
 ### 🧰 Tech Stack
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938a92c4-9a19-4fda-9a70-e30af5daaf39.gif" width="500">
+
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,js,html,git,vscode,github&theme=light" />
 
